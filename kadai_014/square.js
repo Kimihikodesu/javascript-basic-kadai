@@ -1,4 +1,4 @@
 const double =(num)=>{
   return num ** 2;
 }
-console.log(double(1000));
+console.log(double(10));
